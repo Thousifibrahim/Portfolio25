@@ -1,5 +1,7 @@
 # Portfolio25
 
+![stack: HTML](https://img.shields.io/badge/stack-HTML-E34F26) ![stack: SCSS](https://img.shields.io/badge/stack-SCSS-555) ![stack: TypeScript](https://img.shields.io/badge/stack-TypeScript-3178C6)
+
 Profesional Summary - Porrtfolio for 2024
 
 ## Overview
